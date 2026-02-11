@@ -1,3 +1,3 @@
-# Práctica 2 – Parcial 2
+# Práctica 2 – Parcial 1
 
 Pendiente de desarrollo.
