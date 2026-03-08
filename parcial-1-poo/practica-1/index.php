@@ -18,3 +18,5 @@ $usuario = new Usuario("Alexis Ortiz", "ortizcristhian503@gmail.com");
 echo "Datos del usuario:<br>";
 echo "Nombre: " . $usuario->getNombre() . "<br>";
 echo "Correo: " . $usuario->getCorreo();
+
+?>
