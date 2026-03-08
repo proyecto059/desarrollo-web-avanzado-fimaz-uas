@@ -15,7 +15,8 @@ Se creó una clase llamada **Usuario** que contiene los atributos:
 
 Los atributos se declararon como **privados** para aplicar encapsulamiento.
 
-La clase incluye:
+La clase incluye: 
+
 
 - Constructor para inicializar los datos
 - Métodos **getters** para obtener valores
